@@ -16,7 +16,7 @@ Configuration:
   4. Using a text editor, open the index.html file and update the hostname and port in the script tags on line 6 to point to your qlik server.
   5. Using a text editor, open the script.js file in the 'public' folder and update the config, appId and objectId variables to reflect your environment -
     - NOTE: Refer to the following link if you are unsure on how to obtain the appId and objectId
-    - [Obtaining app id's and object id's](http://help.qlik.com/sense/en-us/developer/#../Subsystems/Workbench/Content/BuildingWebsites/HowTos/obtain-app-object-id.htm)
+    - [Obtaining app id's and object id's](http://help.qlik.com/en-US/sense-developer/June2017/Subsystems/Mashups/Content/Howtos/mashups-obtain-app-object-id.htm)
 
 - Qlik Sense Server
   1. Open the QMC (Qlik Management Console) and navigate to the 'Proxies' area.
